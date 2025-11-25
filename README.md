@@ -2,6 +2,12 @@
 
 **Melolo Short Drama API** adalah layanan API gratis yang menyediakan akses ke berbagai konten drama pendek dan video shorts. API ini memungkinkan pengembang untuk mengambil data konten terbaru, trending, melakukan pencarian, melihat detail drama, hingga mendapatkan link streaming video.
 
+<div align="center">
+  <img src="https://github.com/Sansekai/Melolo-Short-Drama-API/blob/main/melolo.gif?raw=true" alt="Demo API" style="width:100%; max-width:600px; border-radius: 8px;">
+  <br>
+  <em>Demo penggunaan API</em>
+</div>
+
 ---
 
 ## 🚀 Base URL
