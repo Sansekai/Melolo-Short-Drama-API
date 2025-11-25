@@ -7,7 +7,7 @@
 ## 🚀 Base URL
 
 Semua request ditujukan ke host berikut:
-[https://melolo-api-azure.vercel.app/api](https://melolo-api-azure.vercel.app)
+[https://melolo-api-azure.vercel.app](https://melolo-api-azure.vercel.app)
 
 ## 📚 Daftar Endpoint
 
