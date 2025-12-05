@@ -46,9 +46,9 @@ Berikut adalah daftar endpoint yang tersedia untuk layanan **Melolo**:
 
 ## 💼 Pembelian Source Code
 
-Anda tertarik untuk mengembangkan layanan serupa atau ingin memiliki source code lengkap dari API ini?
+Anda tertarik untuk memiliki source code lengkap dari API ini?
 
-Silakan hubungi pengembang melalui WhatsApp:
-**[Chat via WhatsApp (+62 851-5772-9639)](https://wa.me/6285157729639)**
+Silakan klik link pembelian:
+**[Beli Source Code)](https://lynk.id/sansekai/ygd0z9jowrlr)**
 
 -----
