@@ -49,6 +49,6 @@ Berikut adalah daftar endpoint yang tersedia untuk layanan **Melolo**:
 Anda tertarik untuk memiliki source code lengkap dari API ini?
 
 Silakan klik link pembelian:
-**[Beli Source Code)](https://lynk.id/sansekai/ygd0z9jowrlr)**
+**[Beli Source Code](https://lynk.id/sansekai/ygd0z9jowrlr)**
 
 -----
